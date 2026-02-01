@@ -22,7 +22,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/LifeStore.git
+git clone https://github.com/Ethan0704-sudo/LifeStore.git
 cd LifeStore
 npm install
 ```
